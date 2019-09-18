@@ -16,4 +16,8 @@ public class MyApplication {
 public void test2(){
 
 }
+
+public void test1(){
+
+}
 }
