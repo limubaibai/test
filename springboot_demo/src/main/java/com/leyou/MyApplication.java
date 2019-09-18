@@ -14,6 +14,6 @@ public class MyApplication {
     }
 
 public void test2(){
-
+sout（“fsj ”）
 }
 }
