@@ -1,4 +1,4 @@
-package com.leyou;
+﻿package com.leyou;
 
 /*import org.mybatis.spring.annotation.MapperScan;*/
 
@@ -12,4 +12,8 @@ public class MyApplication {
     public static void main(String[] args) {
         SpringApplication.run(MyApplication.class,args);
     }
+
+public void test(){
+
+}
 }
