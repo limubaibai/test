@@ -14,8 +14,5 @@ public class MyApplication {
     }
 
 
-
-public void test3(){
-
-}
+sout（删除test2）
 }
