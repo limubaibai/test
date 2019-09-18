@@ -1,0 +1,30 @@
+server:
+  port: 8080
+user:
+  id: 2
+  username: lisi
+  age: 20
+  girls:
+    - 陈钰琪
+    - 唐嫣
+    - 赵敏
+logging:
+  level:
+    com.leyou.controller: debug
+
+
+
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: 123
+    url:  jdbc:mysql:///test
+
+
+mybatis:
+  type-aliases-package: com.leyou.pojo
+  mapper-locations: /mapper/**.xml
+  configuration:
+    map-underscore-to-camel-case: true
