@@ -13,9 +13,7 @@ public class MyApplication {
         SpringApplication.run(MyApplication.class,args);
     }
 
-public void test2(){
 
-}
 
 public void test3(){
 
